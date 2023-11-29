@@ -11,3 +11,4 @@ const buscarBiciPorId = (id) => {
 };
 
 console.log(buscarBiciPorId("f2e2f144-295a-433d-a92f-1790c60e11ea"));
+const escubido = "escubidu";
